@@ -15,11 +15,11 @@ Case and Fitting
 <img width="1168" height="740" alt="Screenshot 2026-01-24 234910" src="https://github.com/user-attachments/assets/a8664ffe-7e70-44ca-a1d9-beea62fc3d49" />
 
 ## BOM:
-4x M3x16 Bolt
-4x M3 Heatset
-6x Cherry MX Switches
-6x DSA Keycaps (preferably white)
-1x EC11 Rotary Encoder
-1x XIAO RP2040
-1x 3d Printed Case
-1x custom PCB
+- 4x M3x16 Bolt
+- 4x M3 Heatset
+- 6x Cherry MX Switches
+- 6x DSA Keycaps (preferably white)
+- 1x EC11 Rotary Encoder
+- 1x XIAO RP2040
+- 1x 3d Printed Case
+- 1x custom PCB

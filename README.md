@@ -1,13 +1,14 @@
 # Bdogs-Keypad
+This is my first project, the macropad! I used 6 key switches which I have mapped to different functions for my computer and a rotary encoder which will control volume.
 ## Screenshots from macropad
 
  PCB board
  
-<img width="1142" height="804" alt="image" src="https://github.com/user-attachments/assets/fc15790b-f516-449e-985f-57f42e268210" />
+<img width="695" height="692" alt="image" src="https://github.com/user-attachments/assets/e99eb3d6-9eae-438f-8530-fa283b7ae63d" />
 
 Schematic
 
-<img width="899" height="679" alt="Screenshot 2026-01-24 234948" src="https://github.com/user-attachments/assets/77f98897-a85b-4b24-84cf-c387509e045a" />
+<img width="906" height="732" alt="image" src="https://github.com/user-attachments/assets/1e16cd12-a991-4b81-acbd-8fc3e4df168c" />
 
 Case and Fitting
 
